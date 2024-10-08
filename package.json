@@ -1,0 +1,21 @@
+{
+  "name": "praktikum-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "chai": "^5.1.1",
+    "glob": "^11.0.0",
+    "mocha": "^10.7.3"
+  },
+  "dependencies": {
+    "lru-cache": "^11.0.1"
+  }
+}
